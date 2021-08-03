@@ -1,0 +1,2 @@
+bir_jetbot-3/hunter_description:bir_jetbot-3/hunter_gazebo:bir_jetbot-3/hunter_navigation
+-DCATKIN_DEVEL_PREFIX=/home/senai/ros/hunter_jetbot/devel -DCMAKE_INSTALL_PREFIX=/home/senai/ros/hunter_jetbot/install -G Unix Makefiles

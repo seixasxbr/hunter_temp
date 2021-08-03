@@ -1,0 +1,8 @@
+prefix=/home/senai/ros/hunter_jetbot/install
+
+Name: hunter_gazebo
+Description: Description of hunter_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

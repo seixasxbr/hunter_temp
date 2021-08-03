@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/senai/ros/hunter_jetbot/devel/setup.sh
